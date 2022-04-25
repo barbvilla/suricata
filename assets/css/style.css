@@ -1,0 +1,29 @@
+body *{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+    background-color: #E83E8C;
+}
+
+.pago{
+    background-color: #17A2B8;
+}
+
+.h1{
+    font-size: 50px;
+    vertical-align: middle;
+}
+
+i{
+    font-size: 80px;
+    vertical-align: middle;
+}
+
+.pie{
+    background-color: #E83E8C;
+    text-align: center;
+}
+
